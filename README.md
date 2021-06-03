@@ -4,6 +4,8 @@ https://nardo88.github.io/select/
 
 ## Код HTML
 
+В данном примере в блок с id = 'select' будет импортирован выпадающий список
+
 ```html
     <div class="app">
         <div class="wrap">
