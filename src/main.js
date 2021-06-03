@@ -1,6 +1,7 @@
-// import "@babel/polyfill";
+// импортируем класс Select
 import { Select } from './select/select';
 
+// создаем экземпляр класса. В качестве аргумента передаем id 
 const select = new Select('#select', {
     placeholder: 'Выберите элемент',
     selectedId: '2',
